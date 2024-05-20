@@ -1,6 +1,6 @@
-module github.com/brandur/simplebox
+module github.com/github/simplebox
 
-go 1.22.3
+go 1.22.2
 
 require golang.org/x/crypto v0.23.0
 
