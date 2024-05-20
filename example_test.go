@@ -4,7 +4,7 @@ import (
 	"crypto/rand"
 	"fmt"
 
-	"github.com/brandur/simplebox"
+	"github.com/github/simplebox"
 )
 
 func ExampleSimpleBox() {

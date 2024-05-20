@@ -1,5 +1,13 @@
 # simplebox
 
+
+> [!IMPORTANT]
+> This repo is a fork of https://github.com/brandur/simplebox please make any fixes upstream and not to the fork.
+>
+> See https://github.com/github/security-iam/issues/8984 for more context
+> on its usage in https://github.com/github/copilot-api
+
+
 [![Build Status](https://github.com/brandur/simplebox/actions/workflows/ci.yaml/badge.svg?branch=master)](https://github.com/brandur/simplebox/actions) [![GoDoc](https://godoc.org/github.com/brandur/simplebox?status.png)](https://godoc.org/github.com/brandur/simplebox)
 
 Package simplebox provides a simple, easy-to-use cryptographic API where all of
